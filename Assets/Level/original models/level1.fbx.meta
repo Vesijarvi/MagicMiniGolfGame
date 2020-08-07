@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 8ade6e6f0b2ae6f4a8d4c46ffcc6120f
+timeCreated: 1481208408
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1st floor
+    100002: 2nd floor
+    100004: 2nd floor wall
+    100006: 2nd floor wall_2
+    100008: 3rd floor_1
+    100010: 3rd floor_2
+    100012: ironstructure
+    100014: ironstructure.001
+    100016: ironstructure.002
+    100018: ironstructure.003
+    100020: ironstructure.004
+    100022: ironstructure.005
+    100024: ironstructure.006
+    100026: ironstructure.007
+    100028: ironstructure.008
+    100030: ironstructure.009
+    100032: ironstructure.010
+    100034: ironstructure.011
+    100036: ironstructure.012
+    100038: ironstructure.013
+    100040: //RootNode
+    100042: lower building
+    100044: stairs1
+    100046: stairs2
+    400000: 1st floor
+    400002: 2nd floor
+    400004: 2nd floor wall
+    400006: 2nd floor wall_2
+    400008: 3rd floor_1
+    400010: 3rd floor_2
+    400012: ironstructure
+    400014: ironstructure.001
+    400016: ironstructure.002
+    400018: ironstructure.003
+    400020: ironstructure.004
+    400022: ironstructure.005
+    400024: ironstructure.006
+    400026: ironstructure.007
+    400028: ironstructure.008
+    400030: ironstructure.009
+    400032: ironstructure.010
+    400034: ironstructure.011
+    400036: ironstructure.012
+    400038: ironstructure.013
+    400040: //RootNode
+    400042: lower building
+    400044: stairs1
+    400046: stairs2
+    2300000: 1st floor
+    2300002: 2nd floor
+    2300004: 2nd floor wall
+    2300006: 2nd floor wall_2
+    2300008: 3rd floor_1
+    2300010: 3rd floor_2
+    2300012: ironstructure
+    2300014: ironstructure.001
+    2300016: ironstructure.002
+    2300018: ironstructure.003
+    2300020: ironstructure.004
+    2300022: ironstructure.005
+    2300024: ironstructure.006
+    2300026: ironstructure.007
+    2300028: ironstructure.008
+    2300030: ironstructure.009
+    2300032: ironstructure.010
+    2300034: ironstructure.011
+    2300036: ironstructure.012
+    2300038: ironstructure.013
+    2300040: lower building
+    2300042: stairs1
+    2300044: stairs2
+    3300000: 1st floor
+    3300002: 2nd floor
+    3300004: 2nd floor wall
+    3300006: 2nd floor wall_2
+    3300008: 3rd floor_1
+    3300010: 3rd floor_2
+    3300012: ironstructure
+    3300014: ironstructure.001
+    3300016: ironstructure.002
+    3300018: ironstructure.003
+    3300020: ironstructure.004
+    3300022: ironstructure.005
+    3300024: ironstructure.006
+    3300026: ironstructure.007
+    3300028: ironstructure.008
+    3300030: ironstructure.009
+    3300032: ironstructure.010
+    3300034: ironstructure.011
+    3300036: ironstructure.012
+    3300038: ironstructure.013
+    3300040: lower building
+    3300042: stairs1
+    3300044: stairs2
+    4300000: ironstructure
+    4300002: lower building
+    4300004: 3rd floor_2
+    4300006: 3rd floor_1
+    4300008: 2nd floor wall
+    4300010: 2nd floor wall_2
+    4300012: stairs2
+    4300014: 2nd floor
+    4300016: 1st floor
+    4300018: ironstructure.001
+    4300020: ironstructure.002
+    4300022: ironstructure.003
+    4300024: ironstructure.004
+    4300026: ironstructure.005
+    4300028: ironstructure.006
+    4300030: ironstructure.007
+    4300032: ironstructure.008
+    4300034: ironstructure.009
+    4300036: ironstructure.010
+    4300038: ironstructure.011
+    4300040: ironstructure.012
+    4300042: ironstructure.013
+    4300044: stairs1
+    6400000: 1st floor
+    6400002: 2nd floor
+    6400004: 2nd floor wall
+    6400006: 2nd floor wall_2
+    6400008: 3rd floor_1
+    6400010: 3rd floor_2
+    6400012: ironstructure
+    6400014: ironstructure.001
+    6400016: ironstructure.002
+    6400018: ironstructure.003
+    6400020: ironstructure.004
+    6400022: ironstructure.005
+    6400024: ironstructure.006
+    6400026: ironstructure.007
+    6400028: ironstructure.008
+    6400030: ironstructure.009
+    6400032: ironstructure.010
+    6400034: ironstructure.011
+    6400036: ironstructure.012
+    6400038: ironstructure.013
+    6400040: lower building
+    6400042: stairs1
+    6400044: stairs2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
