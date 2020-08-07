@@ -1,6 +1,9 @@
 # MagicMiniGolfGame
  This is a simple gold game created while im in Finland LAMK tech campus.
 
+### How to play
+1. Clone repository to local
+2. Click "MagicMiniGolf.exe"
 
 ### Demo Images
  Menu:
